@@ -42,7 +42,7 @@ To play this game locally, you will need:
   - Clone the repository or download the .zip file containing the project files.
     
   ```bash
-    git clone <repository-link> 
+    git clone [<repository-link>](https://github.com/senthilsmart/miniproject-memory-game) 
   ```
 
 2. Open the game:
